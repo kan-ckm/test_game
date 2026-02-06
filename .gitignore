@@ -1,0 +1,13 @@
+# Ren'Py builds
+*.zip
+*.exe
+*.app
+*.dmg
+
+# Ren'Py cache
+cache/
+game/cache/
+
+# OS junk
+.DS_Store
+Thumbs.db
